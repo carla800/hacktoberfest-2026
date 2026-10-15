@@ -1,0 +1,14 @@
+# Credenziali: mai su GitHub
+_credenziali/
+.env
+
+# Ambienti virtuali e cache di Python
+.venv/
+__pycache__/
+
+# Il progetto DEV avrà un suo repository
+dev-week2-side-hustle/
+
+# File di sistema di Windows
+desktop.ini
+Thumbs.db
